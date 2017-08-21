@@ -1,3 +1,5 @@
+
+def
 # Find gcd of two numbers
 def gcd(m, n)
   return m if n==0
